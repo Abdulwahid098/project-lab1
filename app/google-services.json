@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850664072558",
+    "project_id": "tomatoleafdetection",
+    "storage_bucket": "tomatoleafdetection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850664072558:android:4bac4c39af1fe8dfe48d7f",
+        "android_client_info": {
+          "package_name": "com.example.plantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDujn9ss1I1QJpdZtLSpo8_EXLGEFD79IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

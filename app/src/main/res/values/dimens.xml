@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_width">80%</dimen>
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="margin_standard">16dp</dimen>
+</resources>
