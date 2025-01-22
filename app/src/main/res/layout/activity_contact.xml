@@ -54,7 +54,7 @@
         android:drawablePadding="@dimen/_5sdp"
         android:ems="10"
         android:fontFamily="@font/amiko"
-        android:hint="Enter Subject"
+        android:hint="Subject"
         android:inputType="textPersonName"
         android:paddingLeft="@dimen/_20sdp"
         android:paddingTop="@dimen/_10sdp"
