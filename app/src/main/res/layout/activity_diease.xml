@@ -48,7 +48,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="-5sp"
             android:textSize="16sp"
-            android:text="This diseased tomato leaf displays yellowing, spots, or curling, often caused by infections such as blight or leaf mold. Prompt treatment is essential to safeguard the plant's health and yield."
+            android:text="This tomato leaf displays yellowing, spots, or curling, often caused by infections such as blight or leaf mold. Prompt treatment is essential to safeguard the plant's health and yield."
             android:textColor="@android:color/black"
             android:padding="16dp"
             />
