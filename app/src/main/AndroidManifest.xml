@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.plantapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/tomato"
+        android:label="Leaf disease prediction ML app"
+        android:roundIcon="@mipmap/tomato"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Plantapp"
+        tools:targetApi="34">
+        <activity
+            android:name=".privacypolicy"
+            android:exported="false" />
+        <activity
+            android:name=".diease"
+            android:exported="false" />
+        <activity
+            android:name=".health"
+            android:exported="false" />
+        <activity
+            android:name=".contact"
+            android:exported="false" />
+        <activity
+            android:name=".forget"
+            android:exported="false" />
+        <activity
+            android:name=".healthlydisease"
+            android:exported="false" />
+        <activity
+            android:name=".registration"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

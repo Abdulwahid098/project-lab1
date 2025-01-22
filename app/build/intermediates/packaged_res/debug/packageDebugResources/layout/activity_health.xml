@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#F5F5F5"
+    android:orientation="vertical"
+    tools:context=".health">
+
+    <ImageView
+        android:id="@+id/resultImageView"
+        android:background="@drawable/menu_bg"
+        android:layout_width="@dimen/_200sdp"
+        android:layout_height="@dimen/_200sdp"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:layout_marginStart="@dimen/_60sdp"
+        android:layout_marginEnd="@dimen/_50sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/menu_bg"
+        android:paddingStart="@dimen/_20sdp"
+        android:layout_margin="@dimen/_5sdp"
+        android:paddingEnd="@dimen/_20sdp"
+        android:paddingTop="@dimen/_20sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:paddingBottom="@dimen/_15sdp"
+        android:layout_below="@id/resultImageView"
+        android:padding="@dimen/_5sdp"
+       >
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/_10sdp"
+        android:text="Health Leaf"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:textColor=" #3A9679"
+        android:fontFamily="@font/amiko"
+        android:textSize="@dimen/_18sdp"
+        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-5sp"
+            android:textSize="16sp"
+            android:text="This is a healthy tomato leaf. It is bright green and free of spots or discoloration. The leaf is smooth, firm, and shows no signs of wilting or curling. Healthy tomato plants exhibit robust growth, with no yellowing along the edges of the leaves. Strong stems and balanced leaf size reflect proper nutrition and water levels, leading to high-quality tomato yield."
+            android:textColor="@android:color/black"
+            android:padding="16dp"
+            />
+        <Button
+            android:id="@+id/linkButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_12sdp"
+            android:textColor="@color/white"
+            android:background="@drawable/select_bg"
+            android:text="see more"
+            android:layout_margin="5dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/menu_bg"
+        android:padding="@dimen/_5sdp"
+        android:layout_margin="@dimen/_5sdp"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/home"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_weight="1"
+            android:background="@drawable/menuicon_bg"
+            android:drawableLeft="@drawable/ic_baseline_home_24"
+            android:drawablePadding="@dimen/_5sdp"
+            android:gravity="center"
+            android:paddingStart="@dimen/_22sdp"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/contactUs"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_weight="1"
+            android:background="@drawable/menuicon_bg"
+            android:drawableLeft="@drawable/ic_baseline_message_24"
+            android:drawablePadding="@dimen/_5sdp"
+            android:gravity="center"
+            android:paddingStart="@dimen/_22ssp"
+            android:textColor="#000000"/>
+
+        <Button
+            android:id="@+id/privacy"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_weight="1"
+            android:background="@drawable/menuicon_bg"
+            android:drawableLeft="@drawable/ic_baseline_privacy_tip_24"
+            android:drawablePadding="@dimen/_5sdp"
+            android:gravity="center"
+            android:paddingStart="@dimen/_22ssp"
+            android:textColor="#000000"/>
+
+        <Button
+            android:id="@+id/logout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:layout_weight="1"
+            android:background="@drawable/menuicon_bg"
+            android:drawableLeft="@drawable/ic_baseline_login_24"
+            android:drawablePadding="@dimen/_5sdp"
+            android:gravity="center"
+            android:textSize="@dimen/_14sdp"
+            android:paddingStart="@dimen/_22ssp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

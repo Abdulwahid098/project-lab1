@@ -1,0 +1,6 @@
+com.example.plantapp.test.app-core-1.6.1-0 C:\Users\lenovo\.gradle\caches\8.9\transforms\0bd416f918d0d7b889069fbbce94d4fe\transformed\core-1.6.1\res
+com.example.plantapp.test.app-tracing-1.2.0-1 C:\Users\lenovo\.gradle\caches\8.9\transforms\8f60b85d5cd62f3ddf9cf922aadcad23\transformed\tracing-1.2.0\res
+com.example.plantapp.test.app-androidTest-2 C:\Users\lenovo\Desktop\Tomato Leaf Detection System by Using Machine Learning\tomato-leaf-disease-prediction-ml-andriodapp-main\app\build\generated\res\resValues\androidTest\debug
+com.example.plantapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\lenovo\Desktop\Tomato Leaf Detection System by Using Machine Learning\tomato-leaf-disease-prediction-ml-andriodapp-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.plantapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\lenovo\Desktop\Tomato Leaf Detection System by Using Machine Learning\tomato-leaf-disease-prediction-ml-andriodapp-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.plantapp.test.app-debugAndroidTest-5 C:\Users\lenovo\Desktop\Tomato Leaf Detection System by Using Machine Learning\tomato-leaf-disease-prediction-ml-andriodapp-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

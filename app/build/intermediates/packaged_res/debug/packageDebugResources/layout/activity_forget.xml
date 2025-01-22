@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    tools:context=".forget">
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="@dimen/_287sdp"
+        android:layout_height="@dimen/_212sdp"
+        android:layout_marginStart="@dimen/_100sdp"
+        android:layout_marginTop="@dimen/_50sdp"
+        android:layout_marginEnd="@dimen/_100sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/lock"
+        tools:ignore="ExtraText" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_32sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_32sdp"
+        android:fontFamily="@font/amiko"
+        android:text="Forgot Password"
+        android:textAlignment="center"
+        android:textColor="#3A9679"
+        android:textSize="@dimen/_25sdp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <EditText
+        android:id="@+id/femail"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_32sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_32sdp"
+        android:background="@drawable/input_bg"
+        android:drawableLeft="@drawable/baseline_email_24"
+        android:drawablePadding="@dimen/_5sdp"
+        android:ems="10"
+        android:fontFamily="@font/amiko"
+        android:hint="Email Address"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="@dimen/_20sdp"
+        android:paddingTop="@dimen/_13sdp"
+        android:paddingRight="@dimen/_20sdp"
+        android:paddingBottom="@dimen/_13sdp"
+        android:textColor=" #1A1A1A"
+        android:textColorHint="#8da297"
+        android:textSize="@dimen/_14sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+
+    <Button
+        android:id="@+id/resetpassword"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_32sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_32sdp"
+        android:background="@drawable/select_bg"
+        android:fontFamily="@font/amiko"
+        android:paddingLeft="@dimen/_12sdp"
+        android:paddingTop="@dimen/_10sdp"
+        android:paddingRight="@dimen/_12sdp"
+        android:paddingBottom="@dimen/_10sdp"
+        android:text="Reset password"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_14sdp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/femail" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

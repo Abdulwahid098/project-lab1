@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xhdpi_leaf.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xhdpi/leaf.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxxhdpi_ml.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxxhdpi/ml.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_login_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-pngs-42:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.plantapp-pngs-42:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-hdpi_btn2.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-hdpi/btn2.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxhdpi_leaf.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxhdpi/leaf.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-ldpi_splashscreen.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-ldpi/splashscreen.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-hdpi_ml.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-hdpi/ml.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxhdpi_btn2.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxhdpi/btn2.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-hdpi_btn1.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-hdpi/btn1.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_subject_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_subject_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_select.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable/select.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-pngs-42:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_leaftomatos.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable/leaftomatos.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_leaftomato.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable/leaftomato.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_contact.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_contact.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_tomatoleafs.PNG.flat",
+        "source": "com.example.plantapp-main-49:/drawable/tomatoleafs.PNG"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_privacy_tip_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_privacy_tip_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-mdpi_splashscreen.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-mdpi/splashscreen.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxxhdpi_leaf.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxxhdpi/leaf.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-ldpi_btn1.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-ldpi/btn1.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_smartphone_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_smartphone_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_smoking_rooms_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_smoking_rooms_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_security_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxxhdpi_btn1.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxxhdpi/btn1.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-pngs-42:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-mdpi_btn2.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-mdpi/btn2.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_privacypolicy.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_privacypolicy.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxxhdpi_splashscreen.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxxhdpi/splashscreen.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_health.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_health.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-pngs-42:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-ldpi_leaf.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-ldpi/leaf.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_remove_red_eye_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_select_bg.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/select_bg.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_tomotolea.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable/tomotolea.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-ldpi_btn2.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-ldpi/btn2.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_contactus.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable/contactus.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-mdpi_ml.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-mdpi/ml.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_menu_bg.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/menu_bg.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_main.jpg.flat",
+        "source": "com.example.plantapp-main-49:/drawable/main.jpg"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxxhdpi_btn2.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxxhdpi/btn2.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_registration.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xhdpi_btn1.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xhdpi/btn1.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_round_img.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/round_img.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_login_bg.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/login_bg.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/font_amiko.xml.flat",
+        "source": "com.example.plantapp-main-49:/font/amiko.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_message_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_message_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_menuicon_bg.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/menuicon_bg.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_lock.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable/lock.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xhdpi_splashscreen.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xhdpi/splashscreen.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_forget.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_forget.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_login.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-hdpi_tomato.png.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-hdpi/tomato.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_check_box_outline_blank_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_check_box_outline_blank_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_wysiwyg_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_wysiwyg_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxhdpi_splashscreen.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxhdpi/splashscreen.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xhdpi_btn2.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xhdpi/btn2.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxhdpi_ml.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxhdpi/ml.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-hdpi_leaf.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-hdpi/leaf.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_healthlydisease.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_healthlydisease.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-ldpi_ml.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-ldpi/ml.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-mdpi_btn1.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-mdpi/btn1.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_air_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_air_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_input_bg.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xhdpi_ml.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xhdpi/ml.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxhdpi_btn1.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-xxhdpi/btn1.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-mdpi_leaf.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-mdpi/leaf.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/layout_activity_diease.xml.flat",
+        "source": "com.example.plantapp-main-49:/layout/activity_diease.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-hdpi_splashscreen.png.flat",
+        "source": "com.example.plantapp-main-49:/drawable-hdpi/splashscreen.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.plantapp-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-pngs-42:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.plantapp-pngs-42:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.plantapp-debug-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.plantapp-main-49:/drawable/ic_launcher_background.xml"
+    }
+]
